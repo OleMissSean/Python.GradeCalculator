@@ -35,3 +35,10 @@ def printAll(grades):
     print "Standard Deviation:", grades_std_deviation(variance)
     
 printAll(grades)
+
+"*Output*"
+"Grades: 100 100 90 40 80 100 85 70 90 65 90 85 50.5"
+"Sum: 1045.5"
+"Average: 80.4230769231"
+"Variance: 334.071005917"
+"Standard Deviation: 18.2776094147"
